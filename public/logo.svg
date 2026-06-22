@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="NP monogram">
+  <defs>
+    <linearGradient id="np-stroke" x1="6" y1="6" x2="58" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2dd4bf"/>
+      <stop offset="0.5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="np-fill" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0.18"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="58" height="58" rx="17" fill="url(#np-fill)" stroke="url(#np-stroke)" stroke-width="2.5"/>
+  <g fill="none" stroke="url(#np-stroke)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 43 V21 L30 43 V21"/>
+    <path d="M35 43 V21 H43 a7.5 7.5 0 0 1 0 15 H35"/>
+  </g>
+</svg>
